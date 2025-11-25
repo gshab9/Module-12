@@ -51,7 +51,7 @@ uvicorn app.main:app --reload
 
 Docker Hub Repository
 
-👉 YOUR_DOCKER_HUB_REPO_LINK_HERE
+👉 
 
 ## ✔️ Features Implemented
 - SQLAlchemy Calculation model
